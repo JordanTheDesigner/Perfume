@@ -16,7 +16,7 @@ strong{
 }
 
 h1{
-  font-size: 36px;
+  font-size: 24px;
   margin:15px 0;
   font-family: 'Fraunces', serif;
   font-weight: 700;
@@ -26,11 +26,11 @@ h1{
 
 h2, h3{
   font-family: 'Fraunces', serif;
-  font-size:36px;
+  font-size:24px;
 }
 
 p{
-  font-size: 14px;
+  font-size: 12px;
   color:grey;
   line-height: 18px;
   margin-bottom: 0px;
@@ -44,7 +44,7 @@ button{
   color:#fff;
   padding:10px;
   border:0px;
-  font-size:14px;
+  font-size:12px;
   font-family: 'Montserrat', sans-serif;
   font-weight:700;
   border-radius: 5px;
@@ -56,8 +56,8 @@ button{
 
 #CardContainer{
   background-color: #fff;
-  width:600px;
-  height: 425px;
+  width:500px;
+  height: 325px;
   display: flex;
   border-radius: 15px;
   overflow: hidden;
