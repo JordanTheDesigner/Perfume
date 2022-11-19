@@ -16,7 +16,7 @@ strong{
 }
 
 h1{
-  font-size: 24px;
+  font-size: 36px;
   margin:15px 0;
   font-family: 'Fraunces', serif;
   font-weight: 700;
@@ -26,11 +26,11 @@ h1{
 
 h2, h3{
   font-family: 'Fraunces', serif;
-  font-size:24px;
+  font-size:36px;
 }
 
 p{
-  font-size: 12px;
+  font-size: 14px;
   color:grey;
   line-height: 18px;
   margin-bottom: 0px;
@@ -44,7 +44,7 @@ button{
   color:#fff;
   padding:10px;
   border:0px;
-  font-size:12px;
+  font-size:14px;
   font-family: 'Montserrat', sans-serif;
   font-weight:700;
   border-radius: 5px;
@@ -52,16 +52,17 @@ button{
 
 /**CardContainer**/
 
-
-
 #CardContainer{
   background-color: #fff;
-  width:500px;
-  height: 325px;
+  width:600px;
+  height: 452px;
   display: flex;
   border-radius: 15px;
   overflow: hidden;
 }
+
+/**TextContainer**/
+
 
 /**ProductType**/
 
@@ -89,6 +90,7 @@ button{
 /**TextContainer**/
 #TextContainer{
   padding:5px 27px;
+  margin-top:20px;
 }
 
 /**PriceSection**/
@@ -111,6 +113,7 @@ button{
    color:grey;
    font-family: 'Montserrat', sans-serif;
    font-weight: lighter;
+
  }
 
  img#CartIcon{
